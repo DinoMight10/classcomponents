@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/classcomponents/static/css/main.aa803735.css",
+    "main.js": "/classcomponents/static/js/main.051b7f07.js",
+    "index.html": "/classcomponents/index.html",
+    "main.aa803735.css.map": "/classcomponents/static/css/main.aa803735.css.map",
+    "main.051b7f07.js.map": "/classcomponents/static/js/main.051b7f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa803735.css",
+    "static/js/main.051b7f07.js"
+  ]
+}
